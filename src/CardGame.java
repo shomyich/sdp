@@ -1,0 +1,3 @@
+interface CardGame {
+    void startGame();
+}
